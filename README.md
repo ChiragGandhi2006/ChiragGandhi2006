@@ -31,35 +31,18 @@
 
 ## 👨‍💻 About Me
 
-<table>
-<tr>
-<td width="58%">
-
 I'm **Chirag Gandhi**, a B.Tech student specializing in **Artificial Intelligence & Data Science at Vishwakarma Institute of Technology, Pune**.
 
-- 🤖 I build **Machine Learning and AI applications** that solve practical problems.
-- 🧠 Currently focusing on **Deep Learning, neural networks and advanced ML**.
-- 📊 I work with **Python, NumPy, Pandas, Scikit-learn and data-driven workflows**.
-- 🧩 I practice **Data Structures & Algorithms** and maintain my LeetCode journey.
-- 🔬 Interested in **anomaly detection, recommendation systems, AI research and intelligent applications**.
-- 🚀 My goal is to turn ML models into **reliable end-to-end AI systems**.
+- 🤖 Building **Machine Learning and AI applications** for real-world problems.
+- 🧠 Focusing on **Deep Learning, neural networks and advanced ML**.
+- 📊 Working with **Python, NumPy, Pandas and Scikit-learn**.
+- 🧩 Practicing **DSA and problem solving** through LeetCode.
+- 🔬 Interested in **anomaly detection, recommendation systems and AI research**.
+- 🚀 Goal: build **reliable end-to-end AI systems**.
 
-</td>
-<td width="42%" align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=7C3AED&center=true&vCenter=true&width=360&height=120&lines=Think+%E2%86%92+Build;Train+%E2%86%92+Evaluate;Deploy+%E2%86%92+Improve;Repeat+%F0%9F%94%A5" alt="Developer loop" />
-
-</td>
-</tr>
-</table>
-
-<details>
-<summary>✨ <b>What am I currently exploring?</b></summary>
-<br>
+### Current Focus
 
 `Machine Learning` → `Deep Learning` → `Generative AI` → `AI Engineering`
-
-</details>
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,100:7C3AED&height=2&section=header" width="70%" />
@@ -97,14 +80,6 @@ I'm **Chirag Gandhi**, a B.Tech student specializing in **Artificial Intelligenc
 
 </div>
 
-<details>
-<summary>🔍 <b>My preferred AI workflow</b></summary>
-<br>
-
-**Problem → Data → Preprocessing → Features → Model → Evaluation → API/Application → Iteration**
-
-</details>
-
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" width="70%" />
 </p>
@@ -117,18 +92,18 @@ I'm **Chirag Gandhi**, a B.Tech student specializing in **Artificial Intelligenc
 
 | 🚀 Project | 📝 Description | ⭐ Stars | 🛠️ Technologies |
 |---|---|---:|---|
-| [🚀 Leetcode](https://github.com/ChiragGandhi2006/LeetCode) | A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0) | ⭐ 0 | C++ |
+| [🚀 Leetcode](https://github.com/ChiragGandhi2006/LeetCode) | A collection of LeetCode questions to ace the coding interview! | ⭐ 0 | C++ |
 | [🚀 Github Final Project](https://github.com/ChiragGandhi2006/github-final-project) | No description yet. | ⭐ 0 | Shell |
-| [🚀 Ai Based Cloud Removal And Spectral Reconstruction Of Satellite Imagery](https://github.com/ChiragGandhi2006/AI-Based-Cloud-Removal-and-Spectral-Reconstruction-of-Satellite-Imagery) | No description yet. | ⭐ 0 | Python |
-| [🚀 Finplot Ai](https://github.com/ChiragGandhi2006/FinPlot-AI) | No description yet. | ⭐ 1 | JavaScript |
-| [🚀 Movie Recommendation System](https://github.com/ChiragGandhi2006/Movie-Recommendation-System) | No description yet. | ⭐ 1 | Jupyter Notebook |
-| [🚀 Autonomous Ai Project Partner](https://github.com/ChiragGandhi2006/Autonomous-AI-Project-Partner) | Autonomous AI project partner for Hackathon and Dev teams | ⭐ 1 | Python |
-| [🚀 Airline Reservation System Dbms](https://github.com/ChiragGandhi2006/airline-reservation-system-dbms) | No description yet. | ⭐ 1 | Python |
+| [🚀 AI-Based Cloud Removal & Spectral Reconstruction](https://github.com/ChiragGandhi2006/AI-Based-Cloud-Removal-and-Spectral-Reconstruction-of-Satellite-Imagery) | AI-based satellite imagery project. | ⭐ 0 | Python |
+| [🚀 FinPlot-AI](https://github.com/ChiragGandhi2006/FinPlot-AI) | AI-oriented financial analysis project. | ⭐ 1 | JavaScript |
+| [🚀 Movie Recommendation System](https://github.com/ChiragGandhi2006/Movie-Recommendation-System) | Machine-learning based movie recommendation system. | ⭐ 1 | Jupyter Notebook |
+| [🚀 Autonomous AI Project Partner](https://github.com/ChiragGandhi2006/Autonomous-AI-Project-Partner) | Autonomous AI project partner for Hackathon and Dev teams. | ⭐ 1 | Python |
+| [🚀 Airline Reservation System](https://github.com/ChiragGandhi2006/airline-reservation-system-dbms) | Database-driven airline reservation system. | ⭐ 1 | Python |
 
 <!--END_PROJECTS-->
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1500&color=60A5FA&center=true&vCenter=true&width=600&lines=New+project+%3F+Create+it+%E2%86%92+Push+it+%E2%86%92+Watch+it+appear+here+%F0%9F%9A%80" alt="Dynamic projects animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1500&color=60A5FA&center=true&vCenter=true&width=600&lines=Create+%E2%86%92+Push+%E2%86%92+Your+new+project+appears+here+%F0%9F%9A%80" alt="Dynamic projects animation" />
 </p>
 
 <p align="center">
@@ -137,32 +112,30 @@ I'm **Chirag Gandhi**, a B.Tech student specializing in **Artificial Intelligenc
 
 ## ⭐ Featured Projects
 
-<div align="center">
+### 🎬 [Movie Recommendation System](https://github.com/ChiragGandhi2006/Movie-Recommendation-System)
+**Machine Learning • Recommendation System • FastAPI**
 
-<a href="https://github.com/ChiragGandhi2006/Movie-Recommendation-System">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ChiragGandhi2006&repo=Movie-Recommendation-System&theme=transparent&hide_border=true" />
-</a>
-<a href="https://github.com/ChiragGandhi2006/Autonomous-AI-Project-Partner">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ChiragGandhi2006&repo=Autonomous-AI-Project-Partner&theme=transparent&hide_border=true" />
-</a>
+A practical ML project focused on personalized movie recommendations.
 
-</div>
+### 🤖 [Autonomous AI Project Partner](https://github.com/ChiragGandhi2006/Autonomous-AI-Project-Partner)
+**AI • Python • Autonomous Systems**
 
-<details>
-<summary>🔎 <b>Why these projects?</b></summary>
-<br>
+An AI-focused project for assisting hackathon and development teams.
 
-**🎬 Movie Recommendation System** — strong combination of ML, recommendation logic, backend/API development and deployment-oriented thinking.
+### 💹 [FinPlot-AI](https://github.com/ChiragGandhi2006/FinPlot-AI)
+**AI • Financial Analysis • JavaScript**
 
-**🤖 Autonomous AI Project Partner** — demonstrates interest in intelligent systems and AI-assisted software development.
+An AI-oriented project applying intelligent analysis to financial data.
 
-**💹 FinPlot-AI** — applies AI concepts to a real-world financial domain.
+### 🛰️ [AI-Based Cloud Removal & Spectral Reconstruction](https://github.com/ChiragGandhi2006/AI-Based-Cloud-Removal-and-Spectral-Reconstruction-of-Satellite-Imagery)
+**AI • Python • Satellite Imagery**
 
-**🛰️ Satellite Imagery** — adds a research-oriented computer-vision/remote-sensing direction to the portfolio.
+A research-oriented project for AI-based satellite image processing.
 
-**✈️ Airline Reservation System** — demonstrates software engineering, databases and full application development.
+### ✈️ [Airline Reservation System](https://github.com/ChiragGandhi2006/airline-reservation-system-dbms)
+**Python • MySQL • DBMS**
 
-</details>
+A complete reservation application with database-driven workflows.
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" width="70%" />
@@ -194,24 +167,12 @@ I'm **Chirag Gandhi**, a B.Tech student specializing in **Artificial Intelligenc
 ## 🧩 LeetCode Journey
 
 <div align="center">
-
 <a href="https://leetcode.com/u/CKhjBWYKSg/">
 <img src="https://leetcard.jacoblin.cool/CKhjBWYKSg?theme=dark&font=Baloo&ext=heatmap" alt="LeetCode Stats" />
 </a>
-
 <br><br>
-
 <a href="https://leetcode.com/u/CKhjBWYKSg/"><img src="https://img.shields.io/badge/VIEW%20MY%20LEETCODE%20PROFILE-%E2%86%92-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
-
 </div>
-
-<details>
-<summary>🧠 <b>What LeetCode adds to my AI/ML journey</b></summary>
-<br>
-
-DSA improves the fundamentals behind **efficient data processing, algorithmic thinking, optimization and technical interviews** — all useful when building scalable AI systems.
-
-</details>
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" width="70%" />
@@ -236,18 +197,6 @@ DSA improves the fundamentals behind **efficient data processing, algorithmic th
 
 </div>
 
-<details>
-<summary>🚧 <b>Currently improving</b></summary>
-<br>
-
-- Deep Learning fundamentals
-- Neural-network intuition and implementation
-- Advanced ML workflows
-- Generative AI fundamentals
-- Building cleaner, production-oriented projects
-
-</details>
-
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:2563EB&height=2&section=header" width="70%" />
 </p>
@@ -259,16 +208,12 @@ DSA improves the fundamentals behind **efficient data processing, algorithmic th
 | 🏆 Highlight | Details |
 |---|---|
 | 🥇 Competition | **1st Prize — INC IoT Project Execution Competition, PICT Pune (2025)** |
-| 📄 Research | **Credit Card Fraud Detection Using Hybrid XGBoost and Autoencoder Models** — GR Journal, 2026 |
-| 🎓 Academics | **CGPA: 9.27/10.0** — B.Tech AI & Data Science |
+| 📄 Research | **Credit Card Fraud Detection Using Hybrid XGBoost and Autoencoder Models** |
+| 🎓 Academics | **CGPA: 9.27 / 10.0** — B.Tech AI & Data Science |
 | 🧠 Certification | **NVIDIA — Applications of AI for Anomaly Detection** |
 | 📜 Certification | **C-DAC — Artificial Intelligence** |
 
 </div>
-
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1600&color=60A5FA&center=true&vCenter=true&width=650&lines=Research+%E2%80%A2+Projects+%E2%80%A2+Problem+Solving+%E2%80%A2+Continuous+Learning" alt="Highlights animation" />
-</p>
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" width="70%" />
@@ -284,23 +229,19 @@ DSA improves the fundamentals behind **efficient data processing, algorithmic th
 <a href="mailto:gandhichirag2006@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/ChiragGandhi2006/ChiragGandhi2006/blob/main/RESUME.md"><img src="https://img.shields.io/badge/Resume-View%20Resume-2563EB?style=for-the-badge&logo=readthedocs&logoColor=white" /></a>
 
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1500&color=60A5FA&center=true&vCenter=true&width=650&lines=Let's+connect%2C+collaborate+and+build+something+useful+%F0%9F%9A%80" alt="Connect animation" />
-
 </div>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,100:7C3AED&height=2&section=header" width="70%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" width="70%" />
 </p>
 
 ## 💡 Developer Philosophy
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1100&color=7C3AED&center=true&vCenter=true&width=700&lines=Learn+%E2%86%92+Build+%E2%86%92+Break+%E2%86%92+Debug+%E2%86%92+Improve+%E2%86%92+Repeat+%F0%9F%94%A5" alt="Developer philosophy" />
+> **Learn → Build → Break → Debug → Improve → Repeat.** 🔥
 
-> **Don't just learn AI. Build with it.**
+### Don't just learn AI. **Build with it.** 🤖
 
 </div>
 
@@ -308,12 +249,12 @@ DSA improves the fundamentals behind **efficient data processing, algorithmic th
 
 <div align="center">
 
-### ⭐ Thanks for scrolling through my profile!
+### ⭐ Thanks for visiting my profile!
 
 <img src="https://komarev.com/ghpvc/?username=ChiragGandhi2006&label=PROFILE%20VIEWS&color=2563EB&style=flat-square" alt="Profile views" />
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563EB,100:7C3AED&height=140&section=footer" width="100%" alt="Footer animation" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:7c3aed&height=120&section=footer" width="100%" alt="Footer" />
 
 </div>
