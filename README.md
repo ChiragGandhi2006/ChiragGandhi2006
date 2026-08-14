@@ -14,7 +14,7 @@
 <a href="https://www.linkedin.com/in/chirag-gandhi-672a67372/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://leetcode.com/u/CKhjBWYKSg/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
 <a href="mailto:gandhichirag2006@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="[YOUR_RESUME_LINK]"><img src="https://img.shields.io/badge/Resume-2563EB?style=for-the-badge&logo=readthedocs&logoColor=white" /></a>
+<a href="https://github.com/ChiragGandhi2006/ChiragGandhi2006/blob/main/RESUME.md"><img src="https://img.shields.io/badge/Resume-2563EB?style=for-the-badge&logo=readthedocs&logoColor=white" /></a>
 
 <br><br>
 
@@ -51,27 +51,23 @@ I'm **Chirag Gandhi**, a B.Tech student specializing in **Artificial Intelligenc
 <div align="center">
 
 ### 💻 Languages
-
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 
 ### 🤖 ML / Deep Learning
-
 <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
 
 ### 📊 Data / Analytics
-
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 
 ### ⚙️ Backend / Tools
-
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
@@ -92,13 +88,13 @@ I'm **Chirag Gandhi**, a B.Tech student specializing in **Artificial Intelligenc
 
 | 🚀 Project | 📝 Description | ⭐ Stars | 🛠️ Technologies |
 |---|---|---:|---|
-| [🚀 Leetcode](https://github.com/ChiragGandhi2006/LeetCode) | A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0) | ⭐ 0 | C++ |
+| [🚀 Leetcode](https://github.com/ChiragGandhi2006/LeetCode) | A collection of LeetCode questions to ace the coding interview! | ⭐ 0 | C++ |
 | [🚀 Github Final Project](https://github.com/ChiragGandhi2006/github-final-project) | No description yet. | ⭐ 0 | Shell |
-| [🚀 Ai Based Cloud Removal And Spectral Reconstruction Of Satellite Imagery](https://github.com/ChiragGandhi2006/AI-Based-Cloud-Removal-and-Spectral-Reconstruction-of-Satellite-Imagery) | No description yet. | ⭐ 0 | Python |
-| [🚀 Finplot Ai](https://github.com/ChiragGandhi2006/FinPlot-AI) | No description yet. | ⭐ 1 | JavaScript |
-| [🚀 Movie Recommendation System](https://github.com/ChiragGandhi2006/Movie-Recommendation-System) | No description yet. | ⭐ 1 | Jupyter Notebook |
-| [🚀 Autonomous Ai Project Partner](https://github.com/ChiragGandhi2006/Autonomous-AI-Project-Partner) | Autonomous AI project partner for Hackathon and Dev teams | ⭐ 1 | Python |
-| [🚀 Airline Reservation System Dbms](https://github.com/ChiragGandhi2006/airline-reservation-system-dbms) | No description yet. | ⭐ 1 | Python |
+| [🚀 AI Satellite Imagery](https://github.com/ChiragGandhi2006/AI-Based-Cloud-Removal-and-Spectral-Reconstruction-of-Satellite-Imagery) | AI-based cloud removal and spectral reconstruction | ⭐ 0 | Python |
+| [🚀 FinPlot-AI](https://github.com/ChiragGandhi2006/FinPlot-AI) | AI-powered financial analysis project | ⭐ 1 | JavaScript |
+| [🚀 Movie Recommendation System](https://github.com/ChiragGandhi2006/Movie-Recommendation-System) | ML-based movie recommendation system | ⭐ 1 | Jupyter Notebook |
+| [🚀 Autonomous AI Project Partner](https://github.com/ChiragGandhi2006/Autonomous-AI-Project-Partner) | Autonomous AI project partner for Hackathon and Dev teams | ⭐ 1 | Python |
+| [🚀 Airline Reservation System](https://github.com/ChiragGandhi2006/airline-reservation-system-dbms) | Database-driven airline reservation system | ⭐ 1 | Python |
 
 <!--END_PROJECTS-->
 
@@ -106,12 +102,27 @@ I'm **Chirag Gandhi**, a B.Tech student specializing in **Artificial Intelligenc
 
 # ⭐ Featured Projects
 
-<div align="center">
+> Selected based on relevance to your **AI/ML + software engineering profile**.
 
-<a href="https://github.com/ChiragGandhi2006/Movie-Recommendation-System"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ChiragGandhi2006&repo=Movie-Recommendation-System&theme=transparent&hide_border=true" /></a>
-<a href="https://github.com/ChiragGandhi2006/Autonomous-AI-Project-Partner"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ChiragGandhi2006&repo=Autonomous-AI-Project-Partner&theme=transparent&hide_border=true" /></a>
+### 🎬 [Movie Recommendation System](https://github.com/ChiragGandhi2006/Movie-Recommendation-System)
 
-</div>
+A practical recommendation-engineering project combining **machine learning, recommendation techniques and an API/backend layer**. This is one of the strongest projects to showcase for AI/ML and placement discussions.
+
+### 🤖 [Autonomous AI Project Partner](https://github.com/ChiragGandhi2006/Autonomous-AI-Project-Partner)
+
+An **AI-focused development project** designed around autonomous project assistance. This demonstrates your interest in moving beyond notebooks toward intelligent applications.
+
+### 💹 [FinPlot-AI](https://github.com/ChiragGandhi2006/FinPlot-AI)
+
+An AI-oriented financial analysis project that demonstrates your interest in applying intelligent systems to a real-world domain.
+
+### 🛰️ [AI-Based Cloud Removal & Spectral Reconstruction](https://github.com/ChiragGandhi2006/AI-Based-Cloud-Removal-and-Spectral-Reconstruction-of-Satellite-Imagery)
+
+A strong research-oriented project focused on **AI for satellite imagery**, giving your profile a useful computer-vision/remote-sensing direction.
+
+### ✈️ [Airline Reservation System](https://github.com/ChiragGandhi2006/airline-reservation-system-dbms)
+
+A full application demonstrating **Python, GUI development, MySQL, CRUD operations, booking workflows and QR-based boarding passes**.
 
 ---
 
@@ -125,26 +136,6 @@ I'm **Chirag Gandhi**, a B.Tech student specializing in **Artificial Intelligenc
 <br>
 
 <img src="https://streak-stats.demolab.com?user=ChiragGandhi2006&hide_border=true&theme=transparent" />
-
-</div>
-
----
-
-# 🏆 GitHub Trophy Cabinet
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ChiragGandhi2006&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub Trophies" />
-
-</div>
-
----
-
-# 🐍 Contribution Activity
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/ChiragGandhi2006/ChiragGandhi2006/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
 
 </div>
 
@@ -185,6 +176,16 @@ I'm **Chirag Gandhi**, a B.Tech student specializing in **Artificial Intelligenc
 
 ---
 
+# 🏅 Achievements & Research
+
+- 🥇 **1st Prize — INC IoT Project Execution Competition, PICT Pune (2025)**
+- 📄 **Research:** *Credit Card Fraud Detection Using Hybrid XGBoost and Autoencoder Models* — GR Journal, 2026
+- 🎓 **CGPA: 9.27/10.0** in B.Tech AI & Data Science
+- 🧠 **NVIDIA:** Applications of AI for Anomaly Detection
+- 📜 **C-DAC:** Artificial Intelligence
+
+---
+
 # 🌐 Connect With Me
 
 <div align="center">
@@ -193,7 +194,7 @@ I'm **Chirag Gandhi**, a B.Tech student specializing in **Artificial Intelligenc
 <a href="https://github.com/ChiragGandhi2006"><img src="https://img.shields.io/badge/GitHub-ChiragGandhi2006-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://leetcode.com/u/CKhjBWYKSg/"><img src="https://img.shields.io/badge/LeetCode-CKhjBWYKSg-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
 <a href="mailto:gandhichirag2006@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="[YOUR_RESUME_LINK]"><img src="https://img.shields.io/badge/Resume-View%20Resume-2563EB?style=for-the-badge&logo=readthedocs&logoColor=white" /></a>
+<a href="https://github.com/ChiragGandhi2006/ChiragGandhi2006/blob/main/RESUME.md"><img src="https://img.shields.io/badge/Resume-View%20Resume-2563EB?style=for-the-badge&logo=readthedocs&logoColor=white" /></a>
 
 </div>
 
