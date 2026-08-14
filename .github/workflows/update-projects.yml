@@ -1,4 +1,4 @@
-name: Update Project Showcase
+name: Update Dynamic Projects
 
 on:
   workflow_dispatch:
@@ -24,7 +24,10 @@ jobs:
           GITHUB_USERNAME: ChiragGandhi2006
         run: |
           python - <<'PY'
-          import json, os, re, urllib.request
+          import json
+          import os
+          import re
+          import urllib.request
           from datetime import datetime
 
           username = os.environ["GITHUB_USERNAME"]
@@ -46,41 +49,52 @@ jobs:
                   break
               repos.extend(batch)
 
-          excluded = {username.lower()}
-          public_repos = [
+          repos = [
               r for r in repos
               if not r.get("private")
               and not r.get("fork")
-              and r["name"].lower() not in excluded
+              and r["name"].lower() != username.lower()
           ]
 
-          public_repos.sort(key=lambda r: r.get("pushed_at") or r.get("updated_at") or "", reverse=True)
+          repos.sort(key=lambda r: r.get("pushed_at") or r.get("updated_at") or "", reverse=True)
 
           def clean(text):
               return (text or "No description yet.").replace("|", "\\|").replace("\n", " ").strip()
 
           rows = []
-          for repo in public_repos:
+          for repo in repos:
               name = repo["name"]
               pretty = re.sub(r"[-_]+", " ", name).strip().title()
               url = repo["html_url"]
               desc = clean(repo.get("description"))
-              updated = repo.get("pushed_at") or repo.get("updated_at")
-              date = datetime.fromisoformat(updated.replace("Z", "+00:00")).strftime("%d %b %Y") if updated else "—"
-              rows.append(f"| [🚀 {pretty}]({url}) | {desc} | {date} |")
+              stars = repo.get("stargazers_count", 0)
+              language = repo.get("language") or ""
+              topics = repo.get("topics", [])[:3]
+              technologies = []
+              if language:
+                  technologies.append(language)
+              technologies.extend(topics)
+              technologies = list(dict.fromkeys(technologies))
+              tech = " • ".join(technologies) if technologies else "GitHub Project"
+              rows.append(f"| [🚀 {pretty}]({url}) | {desc} | ⭐ {stars} | {tech} |")
 
-          table = "| Project | Description | Updated |\n|---|---|---|\n" + "\n".join(rows)
+          if not rows:
+              rows.append("| 🚀 No public projects yet | Start building! | ⭐ 0 | — |")
+
+          table = "| 🚀 Project | 📝 Description | ⭐ Stars | 🛠️ Technologies |\n|---|---|---:|---|\n" + "\n".join(rows)
 
           path = "README.md"
           with open(path, "r", encoding="utf-8") as f:
               readme = f.read()
 
-          pattern = r"<!-- PROJECTS:START -->.*?<!-- PROJECTS:END -->"
-          replacement = "<!-- PROJECTS:START -->\n\n" + table + "\n\n<!-- PROJECTS:END -->"
-          new_readme, count = re.subn(pattern, replacement, readme, flags=re.S)
+          start_marker = "<!--START_PROJECTS-->"
+          end_marker = "<!--END_PROJECTS-->"
+          pattern = re.escape(start_marker) + r".*?" + re.escape(end_marker)
+          replacement = start_marker + "\n\n" + table + "\n\n" + end_marker
+          new_readme, count = re.subn(pattern, replacement, readme, count=1, flags=re.S)
 
           if count != 1:
-              raise SystemExit("Project markers were not found exactly once in README.md")
+              raise SystemExit("Dynamic project markers were not found exactly once in README.md")
 
           if new_readme != readme:
               with open(path, "w", encoding="utf-8") as f:
@@ -92,5 +106,5 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add README.md
-          git diff --cached --quiet || git commit -m "chore: update project showcase"
+          git diff --cached --quiet || git commit -m "chore: update dynamic projects"
           git push
