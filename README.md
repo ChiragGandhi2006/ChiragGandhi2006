@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:7c3aed&height=190&section=header&text=Chirag%20Gandhi&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20Data%20Science%20%7C%20Machine%20Learning%20%7C%20Deep%20Learning&descAlignY=58&descSize=17" width="100%" alt="Profile header" />
+<img src="https://raw.githubusercontent.com/ChiragGandhi2006/ChiragGandhi2006/main/profile.jpg" width="280" alt="Chirag Gandhi" />
+
+<br><br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=60A5FA&center=true&vCenter=true&width=800&lines=AI%2FML+Engineer+%F0%9F%A4%96;Machine+Learning+Enthusiast+%F0%9F%A7%A0;Deep+Learning+Explorer+%F0%9F%94%A5;Data+Science+Builder+%F0%9F%93%8A;DSA+Problem+Solver+%F0%9F%A7%A9;Building+AI+Systems+That+Solve+Real+Problems+%F0%9F%9A%80" alt="Typing animation" />
 
