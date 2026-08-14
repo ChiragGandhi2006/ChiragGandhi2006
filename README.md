@@ -7,7 +7,7 @@
 <p>
   <a href="https://github.com/ChiragGandhi2006"><img src="https://img.shields.io/badge/GitHub-ChiragGandhi2006-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="https://www.linkedin.com/in/chirag-gandhi-672a67372/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://leetcode.com/u/ChiragGandhi2006/"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"></a>
+  <a href="https://leetcode.com/u/CKhjBWYKSg/"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"></a>
 </p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00A67D&center=true&vCenter=true&width=650&lines=Building+AI+%26+ML+Projects+%F0%9F%A4%96;Turning+Ideas+into+Working+Products+%F0%9F%9A%80;Learning+DSA+One+Problem+at+a+Time+%F0%9F%A7%A9;Always+Exploring+%E2%80%A2+Always+Building+%E2%80%A2+Always+Learning+%F0%9F%94%A5" alt="Typing animation" />
@@ -82,8 +82,8 @@ I enjoy taking an idea from a problem statement to a working application. My cur
 ## 🧩 Coding Journey
 
 <div align="center">
-<a href="https://leetcode.com/u/ChiragGandhi2006/">
-  <img src="https://leetcard.jacoblin.cool/ChiragGandhi2006?theme=dark&font=Baloo&ext=heatmap" alt="LeetCode profile card" />
+<a href="https://leetcode.com/u/CKhjBWYKSg/">
+  <img src="https://leetcard.jacoblin.cool/CKhjBWYKSg?theme=dark&font=Baloo&ext=heatmap" alt="LeetCode profile card" />
 </a>
 </div>
 
@@ -92,7 +92,7 @@ I enjoy taking an idea from a problem statement to a working application. My cur
 ## 🌐 Let's Connect
 
 <div align="center">
-<a href="https://www.linkedin.com/in/chirag-gandhi-672a67372/">💼 LinkedIn</a> • <a href="https://leetcode.com/u/ChiragGandhi2006/">🧩 LeetCode</a> • <a href="https://github.com/ChiragGandhi2006">🐙 GitHub</a>
+<a href="https://www.linkedin.com/in/chirag-gandhi-672a67372/">💼 LinkedIn</a> • <a href="https://leetcode.com/u/CKhjBWYKSg/">🧩 LeetCode</a> • <a href="https://github.com/ChiragGandhi2006">🐙 GitHub</a>
 
 <br><br>
 
