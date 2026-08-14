@@ -1,119 +1,108 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=180&section=header&text=Chirag%20Gandhi&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20Data%20Science%20%7C%20ML%20%7C%20DSA%20%7C%20Builder&descAlignY=58&descSize=18" width="100%" alt="Profile header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:7c3aed&height=190&section=header&text=Chirag%20Gandhi&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20Data%20Science%20%7C%20Machine%20Learning%20%7C%20Deep%20Learning&descAlignY=58&descSize=17" width="100%" alt="Profile header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=900&color=667EEA&center=true&vCenter=true&width=760&lines=Hey%2C+I'm+Chirag+%F0%9F%91%8B;AI+%26+Data+Science+Student+%F0%9F%A4%96;Building+real-world+ML+%26+AI+projects+%F0%9F%9A%80;Solving+DSA+problems+%F0%9F%A7%A9;Turning+ideas+into+working+products+%E2%9A%A1" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=60A5FA&center=true&vCenter=true&width=800&lines=AI%2FML+Engineer+%F0%9F%A4%96;Machine+Learning+Enthusiast+%F0%9F%A7%A0;Deep+Learning+Explorer+%F0%9F%94%A5;Data+Science+Builder+%F0%9F%93%8A;DSA+Problem+Solver+%F0%9F%A7%A9;Building+AI+Systems+That+Solve+Real+Problems+%F0%9F%9A%80" alt="Typing animation" />
 
 <br>
 
-<a href="https://github.com/ChiragGandhi2006"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/chirag-gandhi-672a67372/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://leetcode.com/u/CKhjBWYKSg/"><img src="https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+### Building intelligent systems with **Machine Learning, Deep Learning & Data**
+
+<br>
+
+<a href="https://github.com/ChiragGandhi2006"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/chirag-gandhi-672a67372/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://leetcode.com/u/CKhjBWYKSg/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+<a href="mailto:gandhichirag2006@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="[YOUR_RESUME_LINK]"><img src="https://img.shields.io/badge/Resume-2563EB?style=for-the-badge&logo=readthedocs&logoColor=white" /></a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=ChiragGandhi2006&label=Profile%20Views&color=667eea&style=for-the-badge" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/ChiragGandhi2006?label=Followers&style=for-the-badge&color=764ba2" alt="Followers" />
+<img src="https://komarev.com/ghpvc/?username=ChiragGandhi2006&label=PROFILE%20VIEWS&color=2563EB&style=for-the-badge" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/ChiragGandhi2006?label=FOLLOWERS&style=for-the-badge&color=7C3AED" alt="Followers" />
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+# 👨‍💻 About Me
 
-<table>
-<tr>
-<td width="55%">
+I'm **Chirag Gandhi**, a B.Tech student specializing in **Artificial Intelligence & Data Science at Vishwakarma Institute of Technology, Pune**.
 
-### Hey there! 👋
-
-I'm **Chirag Gandhi**, a B.Tech student in **Artificial Intelligence & Data Science at Vishwakarma Institute of Technology, Pune**.
-
-I like building things that combine **data, intelligence and software** — from ML systems and recommendation engines to AI-powered applications.
-
-🎓 **Education:** AI & Data Science  
-🤖 **Focus:** ML • DL • AI • Data Science  
-🧩 **Practice:** DSA & Competitive Programming  
-🚀 **Goal:** Build impactful real-world products
-
-</td>
-<td width="45%">
-
-```text
-┌─────────────────────────┐
-│       CHIRAG.EXE        │
-├─────────────────────────┤
-│ 🤖 AI Builder           │
-│ 📊 Data Enthusiast      │
-│ 🧠 ML Learner           │
-│ 🧩 DSA Practitioner     │
-│ 🚀 Project Builder      │
-│ 📚 Always Learning      │
-└─────────────────────────┘
-```
-
-</td>
-</tr>
-</table>
+- 🤖 I build **Machine Learning and AI applications** that solve practical problems.
+- 🧠 Currently focusing on **Deep Learning, neural networks and advanced ML**.
+- 📊 I work with **Python, NumPy, Pandas, Scikit-learn and data-driven workflows**.
+- 🧩 I practice **Data Structures & Algorithms** and maintain my LeetCode journey.
+- 🔬 Interested in **anomaly detection, recommendation systems, AI research and intelligent applications**.
+- 🚀 My goal is to turn ML models into **reliable end-to-end AI systems**.
 
 <details>
 <summary>✨ <b>What am I currently exploring?</b></summary>
 <br>
 
-- 🧠 Deep Learning & neural networks
-- 🤖 Generative AI fundamentals
-- 📊 Advanced Machine Learning
-- 🧩 Data Structures & Algorithms
-- ⚡ Building production-ready AI applications
+`Machine Learning` → `Deep Learning` → `Generative AI` → `Production AI`
 
 </details>
 
 ---
 
-## ⚡ Skills & Technologies
+# 🛠️ Tech Stack
 
 <div align="center">
 
-### Languages
-<img src="https://skillicons.dev/icons?i=python,cpp,c,java,html,css,js" alt="Languages" />
+### 💻 Languages
 
-### Data • AI • Backend • Tools
-<img src="https://skillicons.dev/icons?i=mysql,firebase,git,github,vscode,jupyter" alt="Tools" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 
-<br>
+### 🤖 ML / Deep Learning
+
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+
+### 📊 Data / Analytics
 
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+
+### ⚙️ Backend / Tools
+
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 
 </div>
 
 ---
 
-## 🚀 Project Universe
+# 🚀 Dynamic Project Universe
 
-> **Fully dynamic:** your public repositories are automatically collected by the GitHub workflow. Create a new public repository and it can appear here without manually editing this README.
+> **Automatically generated from my public GitHub repositories.** New public repositories are picked up automatically by GitHub Actions.
 
-<!-- PROJECTS:START -->
+<!--START_PROJECTS-->
 
-| Project | Description | Updated |
-|---|---|---|
-| [🚀 Leetcode](https://github.com/ChiragGandhi2006/LeetCode) | A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0) | 14 Aug 2026 |
-| [🚀 Github Final Project](https://github.com/ChiragGandhi2006/github-final-project) | No description yet. | 13 Aug 2026 |
-| [🚀 Ai Based Cloud Removal And Spectral Reconstruction Of Satellite Imagery](https://github.com/ChiragGandhi2006/AI-Based-Cloud-Removal-and-Spectral-Reconstruction-of-Satellite-Imagery) | No description yet. | 12 Aug 2026 |
-| [🚀 Finplot Ai](https://github.com/ChiragGandhi2006/FinPlot-AI) | No description yet. | 10 Aug 2026 |
-| [🚀 Movie Recommendation System](https://github.com/ChiragGandhi2006/Movie-Recommendation-System) | No description yet. | 24 Jul 2026 |
-| [🚀 Autonomous Ai Project Partner](https://github.com/ChiragGandhi2006/Autonomous-AI-Project-Partner) | Autonomous AI project partner for Hackathon and Dev teams | 21 May 2026 |
-| [🚀 Airline Reservation System Dbms](https://github.com/ChiragGandhi2006/airline-reservation-system-dbms) | No description yet. | 07 Apr 2026 |
+| 🚀 Project | 📝 Description | ⭐ Stars | 🛠️ Technologies |
+|---|---|---:|---|
+| [🎬 Movie Recommendation System](https://github.com/ChiragGandhi2006/Movie-Recommendation-System) | ML-powered movie recommendation system | ⭐ 0 | Python • ML |
+| [🤖 Autonomous AI Project Partner](https://github.com/ChiragGandhi2006/Autonomous-AI-Project-Partner) | Autonomous AI project partner for development teams | ⭐ 0 | Python • AI |
+| [💹 FinPlot-AI](https://github.com/ChiragGandhi2006/FinPlot-AI) | AI-powered financial analysis project | ⭐ 0 | Python • AI |
+| [🛰️ AI Satellite Imagery](https://github.com/ChiragGandhi2006/AI-Based-Cloud-Removal-and-Spectral-Reconstruction-of-Satellite-Imagery) | AI-based cloud removal and spectral reconstruction | ⭐ 0 | AI |
+| [✈️ Airline Reservation System](https://github.com/ChiragGandhi2006/airline-reservation-system-dbms) | Database-driven airline reservation system | ⭐ 0 | Python • MySQL |
 
-<!-- PROJECTS:END -->
+<!--END_PROJECTS-->
 
 ---
 
-## 🧠 Featured Projects
+# ⭐ Featured Projects
 
 <div align="center">
 
@@ -124,12 +113,12 @@ I like building things that combine **data, intelligence and software** — from
 
 ---
 
-## 📊 GitHub Intelligence
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=ChiragGandhi2006&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&theme=transparent" />
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChiragGandhi2006&layout=compact&hide_border=true&langs_count=8&theme=transparent" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=ChiragGandhi2006&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&theme=transparent" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChiragGandhi2006&layout=compact&langs_count=8&hide_border=true&theme=transparent" />
 
 <br>
 
@@ -139,7 +128,17 @@ I like building things that combine **data, intelligence and software** — from
 
 ---
 
-## 🐍 Contribution Activity
+# 🏆 GitHub Trophy Cabinet
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ChiragGandhi2006&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub Trophies" />
+
+</div>
+
+---
+
+# 🐍 Contribution Activity
 
 <div align="center">
 
@@ -149,65 +148,62 @@ I like building things that combine **data, intelligence and software** — from
 
 ---
 
-## 🧩 LeetCode Journey
+# 🧩 LeetCode Journey
 
 <div align="center">
 
 <a href="https://leetcode.com/u/CKhjBWYKSg/">
-<img src="https://leetcard.jacoblin.cool/CKhjBWYKSg?theme=dark&font=Baloo&ext=heatmap" alt="LeetCode profile card" />
+<img src="https://leetcard.jacoblin.cool/CKhjBWYKSg?theme=dark&font=Baloo&ext=heatmap" alt="LeetCode Stats" />
 </a>
 
 <br><br>
 
-<a href="https://leetcode.com/u/CKhjBWYKSg/"><img src="https://img.shields.io/badge/OPEN%20MY%20LEETCODE%20PROFILE-%E2%86%92-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+<a href="https://leetcode.com/u/CKhjBWYKSg/"><img src="https://img.shields.io/badge/VIEW%20MY%20LEETCODE%20PROFILE-%E2%86%92-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
 
 </div>
 
 ---
 
-## 🏆 Achievements & Highlights
+# 📚 Learning Roadmap
 
 <div align="center">
 
-| 🎯 | Focus |
+`Python` → `ML` → `Deep Learning` → `Generative AI` → `AI Engineering`
+
+| 🔥 Area | 🎯 Focus |
 |---|---|
-| 🤖 | Machine Learning & AI |
-| 📊 | Data Science & Analytics |
-| 🧩 | DSA & Problem Solving |
-| 🚀 | Real-world Project Development |
-| 🔬 | AI Research & Intelligent Systems |
+| 🤖 Machine Learning | Advanced algorithms & optimization |
+| 🧠 Deep Learning | ANN • CNN • Neural Networks |
+| ✨ Generative AI | LLM fundamentals & applications |
+| 📊 Data Science | Analysis & feature engineering |
+| 🧩 DSA | Problem solving & interviews |
+| 🚀 AI Engineering | End-to-end intelligent systems |
 
 </div>
 
-<details>
-<summary>📚 <b>My learning roadmap</b></summary>
-<br>
-
-`Python` → `ML` → `Deep Learning` → `Generative AI` → `Production AI`
-
-</details>
-
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/chirag-gandhi-672a67372/"><img src="https://img.shields.io/badge/LinkedIn-Chirag%20Gandhi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://leetcode.com/u/CKhjBWYKSg/"><img src="https://img.shields.io/badge/LeetCode-CKhjBWYKSg-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
 <a href="https://github.com/ChiragGandhi2006"><img src="https://img.shields.io/badge/GitHub-ChiragGandhi2006-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://leetcode.com/u/CKhjBWYKSg/"><img src="https://img.shields.io/badge/LeetCode-CKhjBWYKSg-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+<a href="mailto:gandhichirag2006@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="[YOUR_RESUME_LINK]"><img src="https://img.shields.io/badge/Resume-View%20Resume-2563EB?style=for-the-badge&logo=readthedocs&logoColor=white" /></a>
 
 </div>
 
 ---
 
-## 💡 Developer Philosophy
+# 💡 Developer Philosophy
 
 <div align="center">
 
 > **Learn → Build → Break → Debug → Improve → Repeat.** 🔥
 
-*“The best way to learn technology is to build something with it.”*
+### Don't just learn AI. **Build with it.** 🤖
 
 </div>
 
@@ -215,6 +211,12 @@ I like building things that combine **data, intelligence and software** — from
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=130&section=footer" width="100%" alt="Footer" />
+### ⭐ Thanks for visiting my profile!
+
+<img src="https://komarev.com/ghpvc/?username=ChiragGandhi2006&label=PROFILE%20VIEWS&color=2563EB&style=flat-square" alt="Profile views" />
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:7c3aed&height=120&section=footer" width="100%" alt="Footer" />
 
 </div>
