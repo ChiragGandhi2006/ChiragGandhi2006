@@ -99,14 +99,15 @@ I like building things that combine **data, intelligence and software** — from
 
 <!-- PROJECTS:START -->
 
-| 🚀 Project | 📝 Description | 📅 Updated |
+| Project | Description | Updated |
 |---|---|---|
-| [🚀 Leetcode](https://github.com/ChiragGandhi2006/LeetCode) | A collection of LeetCode questions to ace the coding interview! | 14 Aug 2026 |
-| [🛰️ AI Satellite Imagery](https://github.com/ChiragGandhi2006/AI-Based-Cloud-Removal-and-Spectral-Reconstruction-of-Satellite-Imagery) | AI-based cloud removal and spectral reconstruction | 12 Aug 2026 |
-| [💹 FinPlot-AI](https://github.com/ChiragGandhi2006/FinPlot-AI) | AI-powered financial analysis project | 10 Aug 2026 |
-| [🎬 Movie Recommendation System](https://github.com/ChiragGandhi2006/Movie-Recommendation-System) | ML-based movie recommendation system | 24 Jul 2026 |
-| [🤖 Autonomous AI Project Partner](https://github.com/ChiragGandhi2006/Autonomous-AI-Project-Partner) | Autonomous AI project partner for Hackathon and Dev teams | 21 May 2026 |
-| [✈️ Airline Reservation System](https://github.com/ChiragGandhi2006/airline-reservation-system-dbms) | Database-driven airline reservation system | 07 Apr 2026 |
+| [🚀 Leetcode](https://github.com/ChiragGandhi2006/LeetCode) | A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0) | 14 Aug 2026 |
+| [🚀 Github Final Project](https://github.com/ChiragGandhi2006/github-final-project) | No description yet. | 13 Aug 2026 |
+| [🚀 Ai Based Cloud Removal And Spectral Reconstruction Of Satellite Imagery](https://github.com/ChiragGandhi2006/AI-Based-Cloud-Removal-and-Spectral-Reconstruction-of-Satellite-Imagery) | No description yet. | 12 Aug 2026 |
+| [🚀 Finplot Ai](https://github.com/ChiragGandhi2006/FinPlot-AI) | No description yet. | 10 Aug 2026 |
+| [🚀 Movie Recommendation System](https://github.com/ChiragGandhi2006/Movie-Recommendation-System) | No description yet. | 24 Jul 2026 |
+| [🚀 Autonomous Ai Project Partner](https://github.com/ChiragGandhi2006/Autonomous-AI-Project-Partner) | Autonomous AI project partner for Hackathon and Dev teams | 21 May 2026 |
+| [🚀 Airline Reservation System Dbms](https://github.com/ChiragGandhi2006/airline-reservation-system-dbms) | No description yet. | 07 Apr 2026 |
 
 <!-- PROJECTS:END -->
 
