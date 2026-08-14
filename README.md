@@ -92,11 +92,13 @@ I'm **Chirag Gandhi**, a B.Tech student specializing in **Artificial Intelligenc
 
 | 🚀 Project | 📝 Description | ⭐ Stars | 🛠️ Technologies |
 |---|---|---:|---|
-| [🎬 Movie Recommendation System](https://github.com/ChiragGandhi2006/Movie-Recommendation-System) | ML-powered movie recommendation system | ⭐ 0 | Python • ML |
-| [🤖 Autonomous AI Project Partner](https://github.com/ChiragGandhi2006/Autonomous-AI-Project-Partner) | Autonomous AI project partner for development teams | ⭐ 0 | Python • AI |
-| [💹 FinPlot-AI](https://github.com/ChiragGandhi2006/FinPlot-AI) | AI-powered financial analysis project | ⭐ 0 | Python • AI |
-| [🛰️ AI Satellite Imagery](https://github.com/ChiragGandhi2006/AI-Based-Cloud-Removal-and-Spectral-Reconstruction-of-Satellite-Imagery) | AI-based cloud removal and spectral reconstruction | ⭐ 0 | AI |
-| [✈️ Airline Reservation System](https://github.com/ChiragGandhi2006/airline-reservation-system-dbms) | Database-driven airline reservation system | ⭐ 0 | Python • MySQL |
+| [🚀 Leetcode](https://github.com/ChiragGandhi2006/LeetCode) | A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0) | ⭐ 0 | C++ |
+| [🚀 Github Final Project](https://github.com/ChiragGandhi2006/github-final-project) | No description yet. | ⭐ 0 | Shell |
+| [🚀 Ai Based Cloud Removal And Spectral Reconstruction Of Satellite Imagery](https://github.com/ChiragGandhi2006/AI-Based-Cloud-Removal-and-Spectral-Reconstruction-of-Satellite-Imagery) | No description yet. | ⭐ 0 | Python |
+| [🚀 Finplot Ai](https://github.com/ChiragGandhi2006/FinPlot-AI) | No description yet. | ⭐ 1 | JavaScript |
+| [🚀 Movie Recommendation System](https://github.com/ChiragGandhi2006/Movie-Recommendation-System) | No description yet. | ⭐ 1 | Jupyter Notebook |
+| [🚀 Autonomous Ai Project Partner](https://github.com/ChiragGandhi2006/Autonomous-AI-Project-Partner) | Autonomous AI project partner for Hackathon and Dev teams | ⭐ 1 | Python |
+| [🚀 Airline Reservation System Dbms](https://github.com/ChiragGandhi2006/airline-reservation-system-dbms) | No description yet. | ⭐ 1 | Python |
 
 <!--END_PROJECTS-->
 
