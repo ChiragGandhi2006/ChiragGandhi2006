@@ -94,7 +94,6 @@ I'm **Chirag Gandhi**, a B.Tech student specializing in **Artificial Intelligenc
 |---|---|---:|---|
 | [🚀 Leetcode](https://github.com/ChiragGandhi2006/LeetCode) | A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0) | ⭐ 0 | C++ |
 | [🚀 Finplot Ai](https://github.com/ChiragGandhi2006/FinPlot-AI) | No description yet. | ⭐ 1 | JavaScript |
-| [🚀 Github Final Project](https://github.com/ChiragGandhi2006/github-final-project) | No description yet. | ⭐ 0 | Shell |
 | [🚀 Ai Based Cloud Removal And Spectral Reconstruction Of Satellite Imagery](https://github.com/ChiragGandhi2006/AI-Based-Cloud-Removal-and-Spectral-Reconstruction-of-Satellite-Imagery) | No description yet. | ⭐ 0 | Python |
 | [🚀 Movie Recommendation System](https://github.com/ChiragGandhi2006/Movie-Recommendation-System) | No description yet. | ⭐ 1 | Jupyter Notebook |
 | [🚀 Autonomous Ai Project Partner](https://github.com/ChiragGandhi2006/Autonomous-AI-Project-Partner) | Autonomous AI project partner for Hackathon and Dev teams | ⭐ 1 | Python |
