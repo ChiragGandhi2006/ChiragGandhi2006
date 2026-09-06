@@ -92,6 +92,7 @@ I'm **Chirag Gandhi**, a B.Tech student specializing in **Artificial Intelligenc
 
 | 🚀 Project | 📝 Description | ⭐ Stars | 🛠️ Technologies |
 |---|---|---:|---|
+| [🚀 Ci Cd Final Project](https://github.com/ChiragGandhi2006/ci-cd-final-project) | No description yet. | ⭐ 0 | Python |
 | [🚀 Leetcode](https://github.com/ChiragGandhi2006/LeetCode) | A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0) | ⭐ 0 | C++ |
 | [🚀 Tdd Bdd Final Project](https://github.com/ChiragGandhi2006/tdd-bdd-final-project) | No description yet. | ⭐ 0 | Python |
 | [🚀 Ai Based Cloud Removal And Spectral Reconstruction Of Satellite Imagery](https://github.com/ChiragGandhi2006/AI-Based-Cloud-Removal-and-Spectral-Reconstruction-of-Satellite-Imagery) | No description yet. | ⭐ 0 | Python |
